@@ -1,1 +1,2 @@
 Bonjour, nous sommes pret pour le devoir de git
+git c'est a 14h30
